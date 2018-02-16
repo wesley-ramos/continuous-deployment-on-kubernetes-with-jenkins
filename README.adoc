@@ -1,5 +1,7 @@
 :branch: master
 
+image::https://travis-ci.org/wesley-ramos/continuous-deployment-on-kubernetes-with-jenkins.svg?branch=master[]
+
 = Continuous Deployment on Kubernetes with Jenkins
 
 Authors: Wesley Ramos
