@@ -1,0 +1,32 @@
+:branch: master
+
+= Continuous Deployment on Kubernetes with Jenkins
+
+Authors: Wesley Ramos
+
+Tool that allow developers speed up the
+time of creating new business features. It's common knowledge however that the
+ feature is only valuable if it's in production. That's why companies
+ spend a lot of time and resources on building their own deployment pipelines.
+
+This project tries to solve the following problems:
+
+- Creation of a common deployment pipeline
+- Propagation of good testing & deployment practices
+- Speed up the time required to deploy a feature to production
+
+== Introduction
+
+In the following section we will describe in more depth the rationale
+behind the presented opinionated pipeline. We will go through each deployment
+step and describe it in details.
+
+=== Project setup
+
+[source,bash]
+----
+.
+├── jenkins
+└── tools
+----
+
