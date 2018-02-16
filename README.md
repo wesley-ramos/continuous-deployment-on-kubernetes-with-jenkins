@@ -27,7 +27,7 @@ step and describe it in details.
 ```bash
 .
 ├── jenkins
-└── tools
+└── src
 ```
 
 
